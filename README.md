@@ -302,6 +302,36 @@ A interface utiliza uma identidade visual voltada para análise comercial, com o
 
 ---
 
+## 🚀 Principais aprendizados
+
+Este projeto foi desenvolvido como parte do meu processo de aprendizado em Análise de Dados e Business Intelligence.
+
+Durante o desenvolvimento, pude praticar:
+
+- Construção de dashboards comerciais
+- Criação e utilização de KPIs
+- Desenvolvimento de medidas em DAX
+- Análise de desempenho de equipes de vendas
+- Análise de produtos e setores
+- Criação de rankings
+- Análise de conversão
+- Análise temporal
+- Utilização de tabela calendário
+- Criação de receita acumulada
+- Organização de informações para tomada de decisão
+
+📚 Próximos passos
+
+Continuar aprimorando meus conhecimentos em Power BI, DAX, SQL, Excel e Python, desenvolvendo novos projetos de análise de dados e explorando diferentes cenários de negócio.
+
+<div align="center">
+📊 Transformando dados em informações para apoiar decisões.
+<br>
+
+⭐ Obrigado por visitar este projeto!
+
+</div> ```
+
 # 📁 Estrutura do projeto
 
 ```text
